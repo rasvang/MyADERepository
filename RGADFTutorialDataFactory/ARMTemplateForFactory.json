@@ -116,6 +116,7 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobFSLocation",
+						"folderPath": "sample",
 						"fileSystem": "salesdata"
 					}
 				}
