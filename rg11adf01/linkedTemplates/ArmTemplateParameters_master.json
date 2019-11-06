@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "rg11adf01"
 		},
+		"AzureDatabricks_accessToken": {
+			"value": ""
+		},
 		"DestinationContainer_connectionString": {
 			"value": ""
 		},
